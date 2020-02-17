@@ -4,10 +4,6 @@
 
 **Language:** Swift 5, iOS 9 >
 
-**OOP:** Encapsulation, Abstraction, Inheritance, Polymorphism 
-
-**Design principle:** SOLID
-
 **Architecture:** MVVM, bindings with closures (can use rx)
 
 **Patterns:**  Decorator, Factory
